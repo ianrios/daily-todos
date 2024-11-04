@@ -2,16 +2,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+First, Install and use the correct version of npm saved in .nvmrc:
+
+```bash
+`nvm use`
+```
+
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+`npm run dev`
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
